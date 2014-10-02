@@ -5,6 +5,6 @@
     <Grid>
         <TextBlock
             HorizontalAlignment="Center"
-            VerticalAlignment="Center">Hello Kutu 76</TextBlock>
+            VerticalAlignment="Center">Hello WPF World</TextBlock>
     </Grid>
 </Window>
