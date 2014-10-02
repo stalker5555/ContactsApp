@@ -5,6 +5,6 @@
     <Grid>
         <TextBlock
             HorizontalAlignment="Center"
-            VerticalAlignment="Center">Hello Kutu</TextBlock>
+            VerticalAlignment="Center">Hello Kutu 76</TextBlock>
     </Grid>
 </Window>
